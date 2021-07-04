@@ -12,7 +12,7 @@ This demo app demonstrates the functions of the **[Apk Updater Plugin](https://g
 
 * This is how the demo looks like: **[video showcase](https://raw.githubusercontent.com/wiki/kolbasa/cordova-plugin-apkupdater-demo/Videos/Download.gif)**.
 * **[In this folder](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/tree/master/update)** you will find the update files. As you can see the app is updated directly from this Github repository.
-* All function calls of the demo app can be found **[here](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/blob/demo/www/js/demo.js)**.
+* All function calls of the demo app can be found **[here](https://github.com/kolbasa/cordova-plugin-apkupdater-demo.src/blob/main/www/js/demo.js)**.
 
 ### Instructions
 
