@@ -5,8 +5,6 @@ Cordova Apk Updater Demo App  &middot; [![License](https://img.shields.io/badge/
 
 :point_right: **[DOWNLOAD](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/raw/master/Demo.apk)** :point_left:
 
----------------------------------------------------------------------------
-
 ![Installation dialog](https://raw.githubusercontent.com/wiki/kolbasa/cordova-plugin-apkupdater-demo/Images/Installation.png)
 
 ### Overview
