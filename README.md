@@ -1,15 +1,13 @@
 Cordova Apk Updater Demo App  &middot; [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/kolbasa/cordova-plugin-apkupdater/blob/master/LICENSE) [![npm](https://img.shields.io/npm/v/cordova-plugin-apkupdater.svg)]() [![npm](https://img.shields.io/npm/dm/cordova-plugin-apkupdater.svg)]()
 ---------------------------------------------------------------------------
 
-![Installation dialog](https://raw.githubusercontent.com/wiki/kolbasa/cordova-plugin-apkupdater-demo/Images/CordovaBot.png)
-
-:point_right: **[DOWNLOAD](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/raw/master/Demo.apk)** :point_left:
-
 ![Installation dialog](https://raw.githubusercontent.com/wiki/kolbasa/cordova-plugin-apkupdater-demo/Images/Installation.png)
 
 ### Overview
 
 This demo app demonstrates the functions of the **[Apk Updater Plugin](https://github.com/kolbasa/cordova-plugin-apkupdater)** for Cordova. 
+
+:point_right: **[DOWNLOAD](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/raw/master/Demo.apk)** :point_left:
 
 * This is how the demo looks like: **[short video showcase](https://raw.githubusercontent.com/wiki/kolbasa/cordova-plugin-apkupdater-demo/Videos/Download.gif)**.
 * **[In this folder](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/tree/master/update)** you will find the update file. As you can see I update the app directly from this github repository.
