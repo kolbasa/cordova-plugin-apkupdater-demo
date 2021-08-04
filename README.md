@@ -17,7 +17,7 @@ This demo app demonstrates the functions of the **[Apk Updater Plugin](https://g
 ### Instructions
 
 * Install the app `Demo.apk`.
-* The installed app starts with the Version `1.0.0`. The goal is to then update the app to version `1.0.1`.
+* The app starts with the Version `1.0.0`. The goal is to then update to version `1.0.1`.
 * The fastest way to install the apk update is to press the following buttons in succession: `download()` &rarr; `install()`.
 
 ### Notes
