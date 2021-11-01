@@ -1,1 +1,14 @@
-{"name":"Demo.apk","size":1601566,"compressedSize":1552267,"checksum":"be1a28a703879f2d00b897b1c506040f","app":{"name":"Apk Updater Demo","package":"de.kolbasa.apkupdater.demo","version":{"code":10001,"name":"1.0.1"}}}
+{
+  "name": "Demo.apk",
+  "size": 1601566,
+  "compressedSize": 1552267,
+  "checksum": "be1a28a703879f2d00b897b1c506040f",
+  "app": {
+    "name": "Apk Updater Demo",
+    "package": "de.kolbasa.apkupdater.demo",
+    "version": {
+      "code": 10001,
+      "name": "1.0.1"
+    }
+  }
+}
