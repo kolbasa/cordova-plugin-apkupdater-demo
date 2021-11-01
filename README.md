@@ -18,12 +18,9 @@ This demo app demonstrates the functions of the **[Apk Updater Plugin](https://g
 
 * Install the app `Demo.apk`.
 * The app starts with the Version `1.0.0`. The goal is to then update to version `1.0.1`.
-* The fastest way to install the apk update is to press the following buttons in succession: `download()` &rarr; `install()`.
+* The fastest way to install the apk update is to press the following buttons in succession: 
 
-### Notes
-
-* Some functions have been color-coded to indicate that they belong together.
-* The method `http.get()` is the only one that is not from the plugin. This is offered only as an example of how to do versioning ([explanation](https://github.com/kolbasa/cordova-plugin-apkupdater#update-versioning)).
+  `download()` &rarr; `install()`
 
 ### Build the demo yourself
 
