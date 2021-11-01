@@ -1,8 +1,8 @@
 {
   "name": "Demo.apk",
   "size": 1601566,
-  "compressedSize": 1552328,
-  "checksum": "5c56750fb61bb4071793185cb6c19359",
+  "compressedSize": 1552276,
+  "checksum": "bd4ccc2af2d6cf6c7d4055634bd7a3e1",
   "app": {
     "name": "Apk Updater Demo",
     "package": "de.kolbasa.apkupdater.demo",
