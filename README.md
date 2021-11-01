@@ -10,7 +10,8 @@ This demo app demonstrates the functions of the **[Apk Updater Plugin](https://g
 :point_right: **[DOWNLOAD](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/raw/master/Demo.apk)** :point_left:
 
 * This is how the demo looks like: **[short video showcase](https://raw.githubusercontent.com/wiki/kolbasa/cordova-plugin-apkupdater-demo/Videos/Download.gif)**.
-* In the folder **[/update](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/tree/master/update)** you can find the compressed Apk update file. It is an encrypted with the password: `aDzEsCceP3BPO5jy`.
+* In the folder **[/update](https://github.com/kolbasa/cordova-plugin-apkupdater-demo/tree/master/update)** you can find the compressed update file. 
+* The update is encrypted with the password: `aDzEsCceP3BPO5jy`.
 * All function calls of the demo app can be found **[here](https://github.com/kolbasa/cordova-plugin-apkupdater-demo.src/blob/main/www/js/demo.js)**.
 
 ### Instructions
